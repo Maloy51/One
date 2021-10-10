@@ -1,0 +1,16 @@
+E:\One\OneGuitar\RickGuitars\bin\Debug\net5.0\RickGuitars.exe
+E:\One\OneGuitar\RickGuitars\bin\Debug\net5.0\RickGuitars.deps.json
+E:\One\OneGuitar\RickGuitars\bin\Debug\net5.0\RickGuitars.runtimeconfig.json
+E:\One\OneGuitar\RickGuitars\bin\Debug\net5.0\RickGuitars.runtimeconfig.dev.json
+E:\One\OneGuitar\RickGuitars\bin\Debug\net5.0\RickGuitars.dll
+E:\One\OneGuitar\RickGuitars\bin\Debug\net5.0\ref\RickGuitars.dll
+E:\One\OneGuitar\RickGuitars\bin\Debug\net5.0\RickGuitars.pdb
+E:\One\OneGuitar\RickGuitars\obj\Debug\net5.0\RickGuitars.csproj.AssemblyReference.cache
+E:\One\OneGuitar\RickGuitars\obj\Debug\net5.0\RickGuitars.GeneratedMSBuildEditorConfig.editorconfig
+E:\One\OneGuitar\RickGuitars\obj\Debug\net5.0\RickGuitars.AssemblyInfoInputs.cache
+E:\One\OneGuitar\RickGuitars\obj\Debug\net5.0\RickGuitars.AssemblyInfo.cs
+E:\One\OneGuitar\RickGuitars\obj\Debug\net5.0\RickGuitars.csproj.CoreCompileInputs.cache
+E:\One\OneGuitar\RickGuitars\obj\Debug\net5.0\RickGuitars.dll
+E:\One\OneGuitar\RickGuitars\obj\Debug\net5.0\ref\RickGuitars.dll
+E:\One\OneGuitar\RickGuitars\obj\Debug\net5.0\RickGuitars.pdb
+E:\One\OneGuitar\RickGuitars\obj\Debug\net5.0\RickGuitars.genruntimeconfig.cache
